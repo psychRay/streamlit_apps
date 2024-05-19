@@ -1,0 +1,6 @@
+matplotlib
+numpy == 1.24.4
+pandas == 2.0.3
+atlasreader == 0.3.2
+nilearn == 0.10.1
+nibabel == 5.1.0
